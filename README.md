@@ -4,7 +4,7 @@ A comprehensive Python-based grading system that calculates, analyzes, and decla
 
 # 🔤 Letter Detective 
 
-A Python-based character recognition system that identifies and classifies English alphabets using various computational techniques.
+A Python-based character recognition system that identifies English alphabets is vowel or not(Simple Mini Project).
 
 
 
