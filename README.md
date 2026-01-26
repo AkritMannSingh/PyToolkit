@@ -2,7 +2,7 @@
 
 ### Three practical Python programs:
 
-#### · ☕ Cafe Management System - Bill generation, item inventory, and sales tracking
+#### · ☕ Cafe Management System - Bill generation, item inventory, discounts and ratings
 #### · 📊 Grades & Marks Identifier - Academic score analysis and categorization
 #### · 🔤 English Character Identifier - Vowel/consonant detection and text processing
 
