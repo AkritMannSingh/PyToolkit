@@ -1,10 +1,9 @@
-# 📊 Declaration of Grades and Marks
+# Pytoolkit
 
-A comprehensive Python-based grading system that calculates, analyzes, and declares academic results. This repository provides utilities for grade computation, marks analysis, and pass/fail determination.
+###Three practical Python programs:
 
-# 🔤 Letter Detective 
+#### · ☕ Cafe Management System - Bill generation, item inventory, and sales tracking
+#### · 📊 Grades & Marks Identifier - Academic score analysis and categorization
+#### · 🔤 English Character Identifier - Vowel/consonant detection and text processing
 
-A Python-based character recognition system that identifies English alphabets is vowel or not (Simple Mini Project).
-
-
-
+####Educational Python projects demonstrating file handling, billing systems, and data processing.
